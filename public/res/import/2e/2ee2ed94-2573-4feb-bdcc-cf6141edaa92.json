@@ -1,0 +1,1 @@
+{"__type__":"cc.TextAsset","_name":"Event01-Other03","text":"<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<tileset version=\"1.5\" tiledversion=\"1.6.0\" name=\"Event01-Other03\" tilewidth=\"16\" tileheight=\"16\" tilecount=\"64\" columns=\"8\">\r\n <image source=\"../Image/Event01-Other03.png\" width=\"128\" height=\"128\"/>\r\n</tileset>\r\n"}
